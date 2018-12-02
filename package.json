@@ -5,7 +5,9 @@
   "main": "index.js",
   "author": "Luiz Carlos <argentinaluiz@gmail.com>",
   "license": "MIT",
-  "bin": { "son-videos": "./index.js" },
+  "bin": {
+    "son-videos": "./index.js"
+  },
   "dependencies": {
     "commander": "^2.11.0",
     "get-video-duration": "^0.2.0",
